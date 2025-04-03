@@ -1,4 +1,4 @@
-#Amazon Çocuk-1500 kitap
+#Amazon Çocuk
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import json

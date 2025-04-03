@@ -1,4 +1,4 @@
-#Amazon Çizgi roman-1212 kitap
+#Amazon Çizgi roman
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import json
